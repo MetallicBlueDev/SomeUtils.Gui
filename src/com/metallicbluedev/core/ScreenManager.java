@@ -1,8 +1,8 @@
-package com.tr4ncer.core;
+package com.metallicbluedev.core;
 
-import com.tr4ncer.factory.*;
-import com.tr4ncer.logger.*;
-import com.tr4ncer.threading.*;
+import com.metallicbluedev.factory.*;
+import com.metallicbluedev.logger.*;
+import com.metallicbluedev.threading.*;
 import java.awt.*;
 import java.awt.event.*;
 import java.awt.image.*;

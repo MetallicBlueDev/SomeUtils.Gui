@@ -1,6 +1,6 @@
-package com.tr4ncer.core;
+package com.metallicbluedev.core;
 
-import com.tr4ncer.utils.*;
+import com.metallicbluedev.utils.*;
 import javax.swing.*;
 
 /**

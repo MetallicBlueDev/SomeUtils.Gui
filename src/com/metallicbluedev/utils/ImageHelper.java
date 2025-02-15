@@ -1,7 +1,7 @@
-package com.tr4ncer.utils;
+package com.metallicbluedev.utils;
 
-import com.tr4ncer.core.*;
-import com.tr4ncer.logger.*;
+import com.metallicbluedev.core.*;
+import com.metallicbluedev.logger.*;
 import java.awt.*;
 import java.awt.geom.*;
 import java.awt.image.*;
